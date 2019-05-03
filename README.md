@@ -8,6 +8,6 @@ Nesse projeto foi desenvolvido uma lista de cards com a api do github, onde são
 
 - Inicialização do projeto com **create-react-app**
 - Comsumo de api com **Axios**
-- Ações personalizadas paa os componentes
+- Ações personalizadas para os componentes
 - Estilização com **styled-compenents**
 - Gravação e leitura em **localStorage**
